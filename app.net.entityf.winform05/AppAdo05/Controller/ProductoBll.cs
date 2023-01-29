@@ -1,10 +1,7 @@
-﻿using AppAdo05.DataBase;
+﻿using app.net.entityf.winform05.DataBase;
 using AppAdo05.Model;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AppAdo05.Controller
 {

@@ -1,7 +1,6 @@
-﻿using AppAdo05.DataBase;
+﻿using app.net.entityf.winform05.DataBase;
 using AppAdo05.Service;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Linq;
 
 namespace AppAdo05.Model

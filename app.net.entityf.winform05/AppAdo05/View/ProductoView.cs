@@ -1,14 +1,6 @@
-﻿using AppAdo05.Controller;
-using AppAdo05.DataBase;
-using AppAdo05.Model;
+﻿using app.net.entityf.winform05.DataBase;
+using AppAdo05.Controller;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace AppAdo05.View
